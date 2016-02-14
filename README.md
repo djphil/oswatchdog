@@ -7,7 +7,7 @@ OpenSim WatchDog v0.1 by djphil (CC-BY-NC-SA 4.0)
 - Touch "Esc" (escape) close the Watchdog.
 - Illimited Simulators.
 
-##### Development under <a href="https://www.autoitscript.com">Auto-It  v3.3.14.2</a>
+Development under <a href="https://www.autoitscript.com">Auto-It  v3.3.14.2</a>
 
 ## Files provided:
 - watchdog.au3 (source code)
