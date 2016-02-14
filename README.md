@@ -9,11 +9,12 @@ OpenSim WatchDog v0.1 by djphil (CC-BY-NC-SA 4.0)
 
 ##### Development under <a href="https://www.autoitscript.com">Auto-It  v3.3.14.2</a>
 
-## Files
+## Files provided:
 - watchdog.au3 (source code)
 - watchdog.exe (pre-compiled executable)
 - watchdog.bat (exemple)
 - watchdog.log (exemple) 
 - watchdog.ini (exemple)
+- watchdog.ico (favicon)
 
 Enjoy!
